@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"elif	elif …"
+			],
+			[
+				"new",
+				"new_file"
+			],
+			[
+				"id",
+				"idVendor"
+			],
+			[
+				"ssdt",
+				"ssdtPRGen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"jek",
+				"Jekyll: New post"
+			],
+			[
+				"je",
+				"Jekyll: New post"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Jekyll: New post"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gniu/Hackintosh/yekki-scripts"
+	],
+	"file_history":
+	[
+		"/Users/gniu/Hackintosh/mac-toolkits/shell/proxy.sh",
+		"/Users/gniu/Desktop/Backup_Installer/EDID/Overrides/DisplayVendorID-10ac/orig/DisplayProductID-409c",
+		"/Volumes/EFI/EFI/Microsoft/Boot/BCD",
+		"/Volumes/EFI/EFI/Microsoft/Boot/boot.stl",
+		"/Users/gniu/Desktop/cc/DisplayProductID-9ca1",
+		"/Users/gniu/Desktop/cc/DisplayProductID-9c6f",
+		"/Users/gniu/Desktop/cc/DisplayProductID-9c8f",
+		"/Users/gniu/Desktop/cc/DisplayProductID-9c9d",
+		"/Users/gniu/Desktop/cc/DisplayProductID-9c49",
+		"/Users/gniu/Desktop/cc/DisplayProductID-9c69",
+		"/Users/gniu/Desktop/DisplayProductID-a03c",
+		"/Users/gniu/Desktop/log",
+		"/Users/gniu/Desktop/ioregSaved.txt",
+		"/Users/gniu/Desktop/Backup_Installer/EDID/Overrides/DisplayVendorID-10ac/orig/DisplayProductID-4093",
+		"/Users/gniu/Desktop/dd/DisplayProductID-9c0b",
+		"/Users/gniu/Desktop/dd/DisplayProductID-9c0d",
+		"/Users/gniu/m.txt",
+		"/Users/gniu/patch-vga.rb",
+		"/Volumes/EFI/EFI/CLOVER/config.plist",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/lib/_main.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/lib/_commands.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/lib/_functions.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/README.md",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/yekki.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/lib/tmp.sh",
+		"/Users/gniu/Downloads/YekkiBluetoothInjector.kext 2/Contents/Info.plist",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/laptop/t440p/meta.properties",
+		"/Users/gniu/Downloads/YekkiBluetoothInjector.kext/Contents/Info.plist",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/laptop/x220/acpi/patches/backlight_control.txt",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/laptop/x220/meta.properties",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/laptop/default.properties",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/lib/_common.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/laptop/x220/acpi/patches/brightness_keys.txt",
+		"/Users/gniu/Hackintosh/hackintosh-vietnam-tool/Extra Kexts/Wifi Injector/WifiInjector.kext/Contents/info.plist",
+		"/Users/gniu/Hackintosh/hackintosh-vietnam-tool/Extra Kexts/Wifi Injector/preinstall",
+		"/Users/gniu/Hackintosh/yekki.github.com/_posts/2015-02-24-how-to-write-jekyll-blog-with-sublimetext.md",
+		"/Users/gniu/Hackintosh/yekki.github.com/_posts/2015-02-24-dddd.md",
+		"/Users/gniu/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/gniu/Hackintosh/yekki.github.com/_posts/2015-02-24-ddd.md",
+		"/Users/gniu/Hackintosh/yekki.github.com/_config.yml",
+		"/Users/gniu/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/gniu/Hackintosh/yekki.github.com/_posts/2015-02-24-dd.md",
+		"/Users/gniu/Hackintosh/yekki.github.com/assets/js/jquery.min.js",
+		"/Users/gniu/Hackintosh/yekki.github.com/_includes/navigation.html",
+		"/Users/gniu/Hackintosh/yekki.github.com/_site/power-nap-and-darkwake-argument/index.html",
+		"/Users/gniu/Hackintosh/yekki.github.com/assets/fonts/fontawesome-webfont.svg",
+		"/Users/gniu/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/gniu/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/gniu/Hackintosh/hackintosh-vietnam-tool/Extra Kexts/Wifi Tenda W311M/RalinkAirport.app/Contents/Resources/English.lproj/Ralink.nib/keyedobjects.nib",
+		"/Users/gniu/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/build/update/README.txt",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/patches/acpi/fuck.txt",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/tools/ssdtPRGen/Tools/untitled",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/hackintosh.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_working/yekki.rb",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/repo/model/lenovo/x220/codec/cx20590.txt",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_r/hackintosh/hackintosh.gemspec",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_r/hackintosh/bin/hackintosh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_r/hackintosh/lib/hackintosh/laptop.rb",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_working/lib/laptop.rb",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_r/hackintosh/lib/hackintosh/env.rb",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_r/hackintosh/bin/models.rb",
+		"/Users/gniu/Hackintosh/hackintosh-laptop_r/hackintosh/lib/hackintosh.rb",
+		"/Users/gniu/Workspaces/test/test.rb",
+		"/Users/gniu/Hackintosh/CloverGrowerPro1/CloverGrowerPro.sh",
+		"/Users/gniu/Hackintosh/CloverGrowerPro/CloverGrowerPro.conf",
+		"/Users/gniu/Hackintosh/CloverGrowerPro/CloverGrowerPro.sh",
+		"/Users/gniu/Hackintosh/CloverGrowerPro/README.md",
+		"/Users/gniu/Hackintosh/CloverGrowerPro/src/buildnasm.sh",
+		"/Users/gniu/Workspaces/test/untitled",
+		"/Users/gniu/Hackintosh/yekki.github.com/_posts/2015-02-20-basic-knowledge-about-command-line-app.md",
+		"/Users/gniu/todo_new.rb",
+		"/Users/gniu/todo_list.rb",
+		"/Users/gniu/task_done.rb",
+		"/Users/gniu/db_backup_initial.rb",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/output/sound/AppleHDA_CX20590.kext/Contents/Info.plist",
+		"/Users/gniu/Desktop/YekkiBluetoothInjector.kext 2/Contents/Info.plist",
+		"/Users/gniu/Desktop/YekkiBluetoothInjector.kext/Contents/Info.plist",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/gen_hda_injector_kext.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/functions.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/gen_ssdt.sh",
+		"/Users/gniu/config.plist",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/install_ssdtPRGen.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/tools/ssdtPRGen/ssdtPRGen.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/common_env.sh",
+		"/Users/gniu/Hackintosh/yekki.github.com/_posts/2015-02-18-how-to-change-launchpad-icon-size.md",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/solution/lenovo/x220/bin/build_acpi.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/build_acpi.sh",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/hda/cx20590/ahhcd.plist",
+		"/Users/gniu/Downloads/AppleHDA-269.25-CX20590/AppleHDA.kext/Contents/PlugIns/AppleHDAHardwareConfigDriver.kext/Contents/Info.plist",
+		"/Users/gniu/Hackintosh/hackintosh-laptop/bin/acpi.log",
+		"/Users/gniu/Desktop/config.plist",
+		"/Volumes/RepoUSB/05.apps/02.mac/00.crack/vmware+fusion_7_pro_key.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"IODisplayEDID",
+			"C60",
+			"G_DEBUG",
+			"G_IS_SOLUTION",
+			"G_Enable_DEBUG",
+			"DEBUG",
+			"hda",
+			"\"",
+			".txt",
+			"Done.",
+			"Done",
+			"\"",
+			"update",
+			"OPT",
+			"svn.code.sf.net",
+			"svn",
+			"ssdt",
+			"gHome",
+			"Data",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"G_DEBUG",
+			"'",
+			"",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "yekki-scripts.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 461.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
